@@ -1,0 +1,51 @@
+Total Budget of University: 100000
+Name: William
+Surname: Miller
+Date of Birth: 17/1/1973
+Gender: f
+	Home Address: 20 Elm St
+Work Address:
+	 50 Technology Dr  
+Success: 67
+Paid: 35449
+
+Name: Olivia
+Surname: Taylor
+Date of Birth: 11/3/2020
+Gender: m
+	Home Address: 80 Walnut St
+Work Address:
+	 80 Commercial Ave  
+Success: 54
+Paid: 28571
+
+Name: Emma
+Surname: Jones
+Date of Birth: 9/10/2003
+Gender: m
+	Home Address: 90 Willow Ave
+Work Address:
+	 50 Technology Dr  
+Success: 33
+Paid: 17460
+
+Name: Ava
+Surname: Davis
+Date of Birth: 20/10/1976
+Gender: f
+	Home Address: 40 Pine St
+Work Address:
+	 90 Professional Pkwy  
+Success: 23
+Paid: 12169
+
+Name: Emma
+Surname: Wilson
+Date of Birth: 2/3/2020
+Gender: f
+	Home Address: 50 Maple Ave
+Work Address:
+	 100 Innovation Blvd  
+Success: 12
+Paid: 6349
+
